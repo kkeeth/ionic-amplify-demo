@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import Amplify,{ Auth, API } from 'aws-amplify';
 
 @Component({
   selector: 'app-home',
@@ -6,5 +7,8 @@ import { Component } from '@angular/core';
   styleUrls: ['home.page.scss'],
 })
 export class HomePage {
-
+  constructor(){}
+  postLogin(email, password) {
+    console.info(email, password)
+  }
 }
