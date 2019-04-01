@@ -17,7 +17,6 @@ import { AmplifyAngularModule, AmplifyService } from 'aws-amplify-angular';
   providers: [
     StatusBar,
     SplashScreen,
-    AmplifyService,
     { provide: RouteReuseStrategy, useClass: IonicRouteStrategy }
   ],
   bootstrap: [AppComponent]
