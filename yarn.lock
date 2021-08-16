@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@angular-devkit/architect@0.10.7", "@angular-devkit/architect@~0.10.0":
+"@angular-devkit/architect@0.10.7":
   version "0.10.7"
   resolved "https://registry.yarnpkg.com/@angular-devkit/architect/-/architect-0.10.7.tgz#c74b9f6b7f1b4261ada2d24c832328aa4c394464"
   integrity sha512-S49LSslNRxIflHzrIrEgK7mGQ7HzETr/FU0fyTbB0vubcmfzMoYTsgYdK7SUz583lovc+UvASoUAhPJI3e35ng==
@@ -10,7 +10,7 @@
     "@angular-devkit/core" "7.0.7"
     rxjs "6.3.3"
 
-"@angular-devkit/build-angular@~0.10.0":
+"@angular-devkit/build-angular@0.10.7":
   version "0.10.7"
   resolved "https://registry.yarnpkg.com/@angular-devkit/build-angular/-/build-angular-0.10.7.tgz#facfde114c25a4ca3cc5eb6178052a454e597c4c"
   integrity sha512-wjhlMWWkGSSkdwd9elKfeeEgyig/eZGyF2wY5kZmWPBdeK/GfdBLyO15qh4ppRYI2SjyRvzl0tWDOA2Y0hKL0w==
@@ -83,7 +83,7 @@
     "@angular-devkit/core" "7.0.7"
     rxjs "6.3.3"
 
-"@angular-devkit/core@7.0.7", "@angular-devkit/core@~7.0.0":
+"@angular-devkit/core@7.0.7":
   version "7.0.7"
   resolved "https://registry.yarnpkg.com/@angular-devkit/core/-/core-7.0.7.tgz#665176ad8421adfd5f3ea0b2c4a9a432a158b1bb"
   integrity sha512-M8tTT9r3nUtWI3YyiyynHIQn+lQQgeKkxVZ+rdxvyvgE3U9+wn0yep5HkFLQETTuJetu9ARRRD94sD2XL3F/3A==
@@ -105,7 +105,7 @@
     rxjs "6.3.3"
     source-map "0.7.3"
 
-"@angular-devkit/schematics@7.0.7", "@angular-devkit/schematics@~7.0.0":
+"@angular-devkit/schematics@7.0.7":
   version "7.0.7"
   resolved "https://registry.yarnpkg.com/@angular-devkit/schematics/-/schematics-7.0.7.tgz#593422584a4f12644b10073035f1760534b718cf"
   integrity sha512-E6GHu4257PvymRjFDtpGc0ykdcIcpFIfXr73lq8qxo1SBkqH7Y1/C670elDg9nrCte8PhnhJVNiwNgNS/ZTAzQ==
@@ -121,7 +121,7 @@
     "@angular-devkit/core" "7.1.4"
     rxjs "6.3.3"
 
-"@angular/cli@~7.0.0":
+"@angular/cli@7.0.7":
   version "7.0.7"
   resolved "https://registry.yarnpkg.com/@angular/cli/-/cli-7.0.7.tgz#0f4500c5fcf22694c9c40f14d2a5b3dc90fbb4a3"
   integrity sha512-SV3CcHa2oxDKwhOvHqZtysVRRT9pkO04Kv0Z1HEhlgIwqHyIU201R9/mo1gYmBHTNGxowKdvsGLsHQNpsHmQJw==
