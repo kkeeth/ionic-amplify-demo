@@ -1173,10 +1173,10 @@ autoprefixer@9.1.5:
     postcss "^7.0.2"
     postcss-value-parser "^3.2.3"
 
-aws-amplify-angular@2.1.10:
-  version "2.1.10"
-  resolved "https://registry.yarnpkg.com/aws-amplify-angular/-/aws-amplify-angular-2.1.10.tgz#72ad08d8f252f921c5e4365ff1280e232150bc28"
-  integrity sha512-CwF2wljCuDKI1uqU4Zrjv+JSKggmOymPGzf4us3viNmBly8k7xwYSGOJn0TTQPpiS7QUjNs5XAweTcZoztVkog==
+aws-amplify-angular@2.1.12:
+  version "2.1.12"
+  resolved "https://registry.yarnpkg.com/aws-amplify-angular/-/aws-amplify-angular-2.1.12.tgz#5327bd3566b523835410719ef189656ecec13688"
+  integrity sha512-qUUINDCF+RrR+vPGiu349Binz5Ea7ibemWO0W05AGNx2CIsvu+f2M1Cy87it6cemZP6QomcEd+Z2rwDhCKIRZA==
   dependencies:
     "@types/lodash" "^4.14.106"
 
