@@ -1358,12 +1358,12 @@
     typescript "~3.3.3333"
     ws "^6.1.4"
 
-"@ionic/angular@4.0.0-rc.0":
-  version "4.0.0-rc.0"
-  resolved "https://registry.yarnpkg.com/@ionic/angular/-/angular-4.0.0-rc.0.tgz#94aaa6a40fc90dd238a08d61facfa8b0bc9da8ea"
-  integrity sha512-TIdph8Lvr07oFR9HiwXmt3g6VD+IxGZq5DxDAx8/T83pkcCO2VReGDa6h6Ltz3N7TCFNEYqpgMWuHD//c37rnw==
+"@ionic/angular@4.11.13":
+  version "4.11.13"
+  resolved "https://registry.yarnpkg.com/@ionic/angular/-/angular-4.11.13.tgz#d4f00d7d64bcbc860b7ae0961c3e665f74f395fb"
+  integrity sha512-ly/lA8INx0Ai1T5vJsYqzU02jHntow3KY5jF3QqyInq2tPYCXEggo8QvKl9AJzwEvmIJyLyBUf5OEUup1MSODw==
   dependencies:
-    "@ionic/core" "4.0.0-rc.0"
+    "@ionic/core" "4.11.13"
     tslib "^1.9.3"
 
 "@ionic/cli-framework@1.7.0":
@@ -1393,12 +1393,13 @@
     wrap-ansi "^4.0.0"
     write-file-atomic "^2.3.0"
 
-"@ionic/core@4.0.0-rc.0":
-  version "4.0.0-rc.0"
-  resolved "https://registry.yarnpkg.com/@ionic/core/-/core-4.0.0-rc.0.tgz#ac2392220ccdce21c7177458aa8a0fdf61868b50"
-  integrity sha512-qpDJC/D/03SVp/AqAluS3H1awK2Lwvt/uFA4SgwPzg85Bd50mK9UlZDHRbXV3dAGRK6pe74UskS9Q5Ghb3j/2Q==
+"@ionic/core@4.11.13":
+  version "4.11.13"
+  resolved "https://registry.yarnpkg.com/@ionic/core/-/core-4.11.13.tgz#10c7b0d19889671c1de9233f76f9f4167df2a8b5"
+  integrity sha512-EGin45jCjds4P1AvriujxzpIXKQzQrPQyQAgEEwUybhMNcU/9xC1sf2inG1IwMVdsc6XRBYjWvtqMPWxTWmeCw==
   dependencies:
-    ionicons "4.5.1"
+    ionicons "^4.6.3"
+    tslib "^1.10.0"
 
 "@ionic/discover@1.0.13":
   version "1.0.13"
@@ -5734,10 +5735,10 @@ ionic@4.12.0:
     update-notifier "^2.3.0"
     uuid "^3.2.1"
 
-ionicons@4.5.1:
-  version "4.5.1"
-  resolved "https://registry.yarnpkg.com/ionicons/-/ionicons-4.5.1.tgz#a180e8948256e6337c2d290eb07f9113dc7b09eb"
-  integrity sha512-zqfkjpPKsdzzXePdE03IRw6xt7B6N3fcN/7NepyniuEWhKZLy7YpdZLegEwBmKeciXi7rIcv1O/hHJTdokUwXQ==
+ionicons@^4.6.3:
+  version "4.6.3"
+  resolved "https://registry.yarnpkg.com/ionicons/-/ionicons-4.6.3.tgz#e4f3a3e9b66761eb8c0db27798cc1a8ce97777d2"
+  integrity sha512-cgP+VIr2cTJpMfFyVHTerq6n2jeoiGboVoe3GlaAo5zoSBDAEXORwUZhv6m+lCyxlsHCS3nqPUE+MKyZU71t8Q==
 
 ip-regex@^2.1.0:
   version "2.1.0"
