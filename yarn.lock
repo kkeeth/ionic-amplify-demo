@@ -408,14 +408,15 @@
   dependencies:
     "@types/cordova" latest
 
-"@ionic/angular-toolkit@1.2.2":
-  version "1.2.2"
-  resolved "https://registry.yarnpkg.com/@ionic/angular-toolkit/-/angular-toolkit-1.2.2.tgz#3e2448b3967912524090b37537f06fabb30b38f7"
-  integrity sha512-mJTV9SQWSKDzbKm0fpbfuXehAxqayeeApm94OLuZto27Kf2eARRdH4CsUEcv+6YjYAyzfnx2k5ej/mHrh2wYFg==
+"@ionic/angular-toolkit@1.5.1":
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/@ionic/angular-toolkit/-/angular-toolkit-1.5.1.tgz#1bcd6c32fb745e63281a58161c66ee378c0bf0b8"
+  integrity sha512-B5LHuzEv/lgFP7yxfOA3/wggDM/X1mDkWFX8rZtaBRZBbC0vtZwdwDu73RnkfFZ0jTFyIgtoBW8qTrrCyd5MLA==
   dependencies:
     "@schematics/angular" "^7.0.3"
     tslib "^1.9.0"
-    typescript "~3.1.0"
+    typescript "~3.3.3333"
+    ws "^6.1.4"
 
 "@ionic/angular@4.0.0-rc.0":
   version "4.0.0-rc.0"
@@ -7950,10 +7951,15 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-typescript@3.1.6, typescript@~3.1.0:
+typescript@3.1.6:
   version "3.1.6"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.1.6.tgz#b6543a83cfc8c2befb3f4c8fba6896f5b0c9be68"
   integrity sha512-tDMYfVtvpb96msS1lDX9MEdHrW4yOuZ4Kdc4Him9oU796XldPYF/t2+uKoX0BBa0hXXwDlqYQbXY5Rzjzc5hBA==
+
+typescript@~3.3.3333:
+  version "3.3.4000"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.3.4000.tgz#76b0f89cfdbf97827e1112d64f283f1151d6adf0"
+  integrity sha512-jjOcCZvpkl2+z7JFn0yBOoLQyLoIkNZAs/fYJkUG6VKy6zLPHJGfQJYFHzibB6GJaF/8QrcECtlQ5cpvRHSMEA==
 
 uglify-es@^3.3.4:
   version "3.3.9"
@@ -8500,6 +8506,13 @@ ws@^6.0.0:
   version "6.2.1"
   resolved "https://registry.yarnpkg.com/ws/-/ws-6.2.1.tgz#442fdf0a47ed64f59b6a5d8ff130f4748ed524fb"
   integrity sha512-GIyAXC2cB7LjvpgMt9EKS2ldqr0MTrORaleiOno6TweZ6r3TKtoFQWay/2PceJ3RuBasOHzXNn5Lrw1X0bEjqA==
+  dependencies:
+    async-limiter "~1.0.0"
+
+ws@^6.1.4:
+  version "6.2.2"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-6.2.2.tgz#dd5cdbd57a9979916097652d78f1cc5faea0c32e"
+  integrity sha512-zmhltoSR8u1cnDsD43TX59mzoMZsLKqUweyYBAIvTngR3shc0W6aOZylZmq/7hqyVxPdi+5Ud2QInblgyE72fw==
   dependencies:
     async-limiter "~1.0.0"
 
