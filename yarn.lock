@@ -2546,24 +2546,24 @@
   resolved "https://registry.yarnpkg.com/@discoveryjs/json-ext/-/json-ext-0.5.3.tgz#90420f9f9c6d3987f176a19a7d8e764271a2f55d"
   integrity sha512-Fxt+AfXgjMoin2maPIYzFZnQjAXjAL0PHscM5pRTtatFqB+vZxAM9tLp2Optnuw3QOQC40jTNeGYFOMvyf7v9g==
 
-"@ionic-native/core@5.35.0":
-  version "5.35.0"
-  resolved "https://registry.yarnpkg.com/@ionic-native/core/-/core-5.35.0.tgz#b84cfcc2cf8993c09c2b8fe1fe2e3d8646d44f09"
-  integrity sha512-x2mShlaLOzCxwdqvPOvUFX4g0ctMvEYiYak6Hlh+HP9eNWfruT0EcMoXs6KSvIRFRsyFaYAXHyDZseKtB3aqsA==
+"@ionic-native/core@5.36.0":
+  version "5.36.0"
+  resolved "https://registry.yarnpkg.com/@ionic-native/core/-/core-5.36.0.tgz#712c40a530b119b0039e8d16cb577899f50541d4"
+  integrity sha512-lOrkktadlKYbYf1LrDyAtsu1JnQ0oCCdkOU7iHQ8oXnNOkMwobFfD2m62F1CoOr0u9LIkpYnZSPjng8lZbmbNw==
   dependencies:
     "@types/cordova" latest
 
-"@ionic-native/splash-screen@5.35.0":
-  version "5.35.0"
-  resolved "https://registry.yarnpkg.com/@ionic-native/splash-screen/-/splash-screen-5.35.0.tgz#e9d4b3644932c911d0a8162b814518a0bf89ce3e"
-  integrity sha512-q3JNIdONmT8pA5xqVB1XiXRR7upKd/o6b2ZX5pPaAZK5GB1kaD8BlRyfJPvX4H1C1o7mAlyr6Y+r1PpeF7KkWg==
+"@ionic-native/splash-screen@5.36.0":
+  version "5.36.0"
+  resolved "https://registry.yarnpkg.com/@ionic-native/splash-screen/-/splash-screen-5.36.0.tgz#70852eaa34aa3bbe283313f82d9d974f755ec7d6"
+  integrity sha512-BfNknY1rrGE8JRnCdKfL5wz8yFLhpPU5FRr8/LA3L+EncvPvcb9LGidePoeH3gVLMkolm2DI2a/rCelNrJ1Sxw==
   dependencies:
     "@types/cordova" latest
 
-"@ionic-native/status-bar@5.35.0":
-  version "5.35.0"
-  resolved "https://registry.yarnpkg.com/@ionic-native/status-bar/-/status-bar-5.35.0.tgz#b779c1e97081f2a0081fabbcc14597a9b9964183"
-  integrity sha512-c9uwQHGf0nO5V+u6cLpCido6FX7QOfjo11BRKwrQoAzpIvSK7cUgh/6PMW3MlkjWs3qNKHRNiHDg7wlac2vcuQ==
+"@ionic-native/status-bar@5.36.0":
+  version "5.36.0"
+  resolved "https://registry.yarnpkg.com/@ionic-native/status-bar/-/status-bar-5.36.0.tgz#d28b92c5b435f95c0a837af6c03b309f6e0e3830"
+  integrity sha512-OXC1z+4Iba4lo1dc2+0h4Gvpud3z0XQmEbw0ny9UflCuSkLqBxvmiNRU7CRQwPnT1KaGVXkaSokdwxO8H9IlNg==
   dependencies:
     "@types/cordova" latest
 
