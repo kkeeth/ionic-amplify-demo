@@ -4136,10 +4136,10 @@ autoprefixer@^9.6.1:
     postcss "^7.0.32"
     postcss-value-parser "^4.1.0"
 
-aws-amplify-angular@6.0.19:
-  version "6.0.19"
-  resolved "https://registry.yarnpkg.com/aws-amplify-angular/-/aws-amplify-angular-6.0.19.tgz#73be8503ddbe4a7ab62dcd162286601a3afad36c"
-  integrity sha512-5dAS35EGlm89UOmwgFCNWt4rXtzDw0azo3S36iWHkuiw4zF6+NamkqIwby48UKiFaADExg55MryFzcK6JU72Sg==
+aws-amplify-angular@6.0.11:
+  version "6.0.11"
+  resolved "https://registry.yarnpkg.com/aws-amplify-angular/-/aws-amplify-angular-6.0.11.tgz#2f8b909b306f341b1aee6b97250fe56de5ff26ed"
+  integrity sha512-/C9PYADdK2zECPb/7ywuPXgEYI+lR60hIXT/wclUfjbFI9uII8JR6z4mMC6VxcvnHMDnYZR+CnfFumkPp51Zrw==
   dependencies:
     "@aws-amplify/ui" "2.0.3"
     rxjs-compat "^6.2.1"
@@ -7357,7 +7357,12 @@ iterall@^1.2.2:
   resolved "https://registry.yarnpkg.com/iterall/-/iterall-1.3.0.tgz#afcb08492e2915cbd8a0884eb93a8c94d0d72fea"
   integrity sha512-QZ9qOMdF+QLHxy1QIpUHUU1D5pS2CG2P69LF6L6CPjPYA/XMOmKV3PZpawHoAjHNyB0swdVTRxdYT4tbBbxqwg==
 
-jasmine-core@3.9.0, jasmine-core@^3.6.0:
+jasmine-core@3.99.1:
+  version "3.99.1"
+  resolved "https://registry.yarnpkg.com/jasmine-core/-/jasmine-core-3.99.1.tgz#5bfa4b2d76618868bfac4c8ff08bb26fffa4120d"
+  integrity sha512-Hu1dmuoGcZ7AfyynN3LsfruwMbxMALMka+YtZeGoLuDEySVmVAPaonkNoBRIw/ectu8b9tVQCJNgp4a4knp+tg==
+
+jasmine-core@^3.6.0:
   version "3.9.0"
   resolved "https://registry.yarnpkg.com/jasmine-core/-/jasmine-core-3.9.0.tgz#09a3c8169fe98ec69440476d04a0e4cb4d59e452"
   integrity sha512-Tv3kVbPCGVrjsnHBZ38NsPU3sDOtNa0XmbG2baiyJqdb5/SPpDO6GVwJYtUryl6KB4q1Ssckwg612ES9Z0dreQ==
