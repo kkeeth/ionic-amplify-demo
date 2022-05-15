@@ -3151,12 +3151,12 @@
     tslib "^2.0.3"
     ws "^7.0.1"
 
-"@ionic/angular@5.8.2":
-  version "5.8.2"
-  resolved "https://registry.yarnpkg.com/@ionic/angular/-/angular-5.8.2.tgz#e23c6549e0b4e9cba049ee4d67402f8eef22e069"
-  integrity sha512-m2dE8QcWyCkv4yB+6+9j9Qu6hI28+chWT7A6nmbD7A360bm26LjdvKiJaCEQUxIXH7CpFuYcURZvRrn9gMscNg==
+"@ionic/angular@5.9.4":
+  version "5.9.4"
+  resolved "https://registry.yarnpkg.com/@ionic/angular/-/angular-5.9.4.tgz#f760065335d02daf940cc8452d9ad7b7a223914f"
+  integrity sha512-U/85FePF48VaZXTudTwpVXDqhGmYfarl/7vki7a4umnIORnWtHqD2/pXsqqZ/O1EcbALwULYIeVXAfkFpPd2wQ==
   dependencies:
-    "@ionic/core" "5.8.2"
+    "@ionic/core" "5.9.4"
     tslib "^1.9.3"
 
 "@ionic/cli-framework-prompts@1.0.4":
@@ -3195,10 +3195,10 @@
     wrap-ansi "^6.0.0"
     write-file-atomic "^3.0.0"
 
-"@ionic/core@5.8.2":
-  version "5.8.2"
-  resolved "https://registry.yarnpkg.com/@ionic/core/-/core-5.8.2.tgz#772d658c217290229140dd539dbc8360ec3ded86"
-  integrity sha512-BWIh6hyhq+tzVvebPMfRa+IhTV5/yXh4wO3a0U3Qo4PL4KDzWyBJfoiPi6bOEc+BAlFnCtOooTTXTumgXXOojg==
+"@ionic/core@5.9.4":
+  version "5.9.4"
+  resolved "https://registry.yarnpkg.com/@ionic/core/-/core-5.9.4.tgz#6fe39099bc102322428671154b613e0eded72245"
+  integrity sha512-Ngz9yVT6fIiGdSxxBer8uJxP4w6PasvohYpLxhtMgYiWnyIu0vZra2ui3HrYukCzUo5/SbNPiUr1l7cj1E+7qw==
   dependencies:
     "@stencil/core" "^2.4.0"
     ionicons "^5.5.3"
@@ -4136,10 +4136,10 @@ autoprefixer@^9.6.1:
     postcss "^7.0.32"
     postcss-value-parser "^4.1.0"
 
-aws-amplify-angular@6.0.19:
-  version "6.0.19"
-  resolved "https://registry.yarnpkg.com/aws-amplify-angular/-/aws-amplify-angular-6.0.19.tgz#73be8503ddbe4a7ab62dcd162286601a3afad36c"
-  integrity sha512-5dAS35EGlm89UOmwgFCNWt4rXtzDw0azo3S36iWHkuiw4zF6+NamkqIwby48UKiFaADExg55MryFzcK6JU72Sg==
+aws-amplify-angular@6.0.11:
+  version "6.0.11"
+  resolved "https://registry.yarnpkg.com/aws-amplify-angular/-/aws-amplify-angular-6.0.11.tgz#2f8b909b306f341b1aee6b97250fe56de5ff26ed"
+  integrity sha512-/C9PYADdK2zECPb/7ywuPXgEYI+lR60hIXT/wclUfjbFI9uII8JR6z4mMC6VxcvnHMDnYZR+CnfFumkPp51Zrw==
   dependencies:
     "@aws-amplify/ui" "2.0.3"
     rxjs-compat "^6.2.1"
