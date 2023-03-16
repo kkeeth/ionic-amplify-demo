@@ -4136,10 +4136,10 @@ autoprefixer@^9.6.1:
     postcss "^7.0.32"
     postcss-value-parser "^4.1.0"
 
-aws-amplify-angular@6.0.19:
-  version "6.0.19"
-  resolved "https://registry.yarnpkg.com/aws-amplify-angular/-/aws-amplify-angular-6.0.19.tgz#73be8503ddbe4a7ab62dcd162286601a3afad36c"
-  integrity sha512-5dAS35EGlm89UOmwgFCNWt4rXtzDw0azo3S36iWHkuiw4zF6+NamkqIwby48UKiFaADExg55MryFzcK6JU72Sg==
+aws-amplify-angular@6.0.11:
+  version "6.0.11"
+  resolved "https://registry.yarnpkg.com/aws-amplify-angular/-/aws-amplify-angular-6.0.11.tgz#2f8b909b306f341b1aee6b97250fe56de5ff26ed"
+  integrity sha512-/C9PYADdK2zECPb/7ywuPXgEYI+lR60hIXT/wclUfjbFI9uII8JR6z4mMC6VxcvnHMDnYZR+CnfFumkPp51Zrw==
   dependencies:
     "@aws-amplify/ui" "2.0.3"
     rxjs-compat "^6.2.1"
@@ -11331,10 +11331,10 @@ typescript@4.3.5:
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.3.5.tgz#4d1c37cc16e893973c45a06886b7113234f119f4"
   integrity sha512-DqQgihaQ9cUrskJo9kIyW/+g0Vxsk8cDtZ52a3NGh0YNTfpUSArXSohyUGnvbPazEPLu398C0UxmKSOrPumUzA==
 
-typescript@4.4.3:
-  version "4.4.3"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.4.3.tgz#bdc5407caa2b109efd4f82fe130656f977a29324"
-  integrity sha512-4xfscpisVgqqDfPaJo5vkd+Qd/ItkoagnHpufr+i2QCHBsNYp+G7UAoyFl8aPtx879u38wPV65rZ8qbGZijalA==
+typescript@4.9.5:
+  version "4.9.5"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.9.5.tgz#095979f9bcc0d09da324d58d03ce8f8374cbe65a"
+  integrity sha512-1FXk9E2Hm+QzZQ7z+McJiHL4NW1F2EzMu9Nq9i3zAaGqibafqYwCVU6WyWAuyQRRzOlxou8xZSyXLEN8oKj24g==
 
 ua-parser-js@^0.7.28:
   version "0.7.28"
