@@ -3570,10 +3570,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-16.7.5.tgz#96142b243977b03d99c338fdb09241d286102711"
   integrity sha512-E7SpxDXoHEpmZ9C1gSqwadhE6zPRtf3g0gJy9Y51DsImnR5TcDs3QEiV/3Q7zOM8LWaZp5Gph71NK6ElVMG1IQ==
 
-"@types/node@14.17.21":
-  version "14.17.21"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.17.21.tgz#6359d8cf73481e312a43886fa50afc70ce5592c6"
-  integrity sha512-zv8ukKci1mrILYiQOwGSV4FpkZhyxQtuFWGya2GujWg+zVAeRQ4qbaMmWp9vb9889CFA8JECH7lkwCL6Ygg8kA==
+"@types/node@14.18.51":
+  version "14.18.51"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.18.51.tgz#cb90935b89c641201c3d07a595c3e22d1cfaa417"
+  integrity sha512-P9bsdGFPpVtofEKlhWMVS2qqx1A/rt9QBfihWlklfHHpUpjtYse5AzFz6j4DWrARLYh6gRnw9+5+DJcrq3KvBA==
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.1"
@@ -4136,10 +4136,10 @@ autoprefixer@^9.6.1:
     postcss "^7.0.32"
     postcss-value-parser "^4.1.0"
 
-aws-amplify-angular@6.0.19:
-  version "6.0.19"
-  resolved "https://registry.yarnpkg.com/aws-amplify-angular/-/aws-amplify-angular-6.0.19.tgz#73be8503ddbe4a7ab62dcd162286601a3afad36c"
-  integrity sha512-5dAS35EGlm89UOmwgFCNWt4rXtzDw0azo3S36iWHkuiw4zF6+NamkqIwby48UKiFaADExg55MryFzcK6JU72Sg==
+aws-amplify-angular@6.0.11:
+  version "6.0.11"
+  resolved "https://registry.yarnpkg.com/aws-amplify-angular/-/aws-amplify-angular-6.0.11.tgz#2f8b909b306f341b1aee6b97250fe56de5ff26ed"
+  integrity sha512-/C9PYADdK2zECPb/7ywuPXgEYI+lR60hIXT/wclUfjbFI9uII8JR6z4mMC6VxcvnHMDnYZR+CnfFumkPp51Zrw==
   dependencies:
     "@aws-amplify/ui" "2.0.3"
     rxjs-compat "^6.2.1"
