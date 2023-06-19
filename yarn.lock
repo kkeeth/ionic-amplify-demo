@@ -438,11 +438,6 @@
     axios "0.26.0"
     events "^3.1.0"
 
-"@aws-amplify/ui@2.0.3":
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/@aws-amplify/ui/-/ui-2.0.3.tgz#7a88a416942aedbc6a6ea9850a2c98693c80340a"
-  integrity sha512-LxbmPGD/S4bWzUh2PXMPSt/rXeUVJTsCbMpwH18XilTkXgOSmKH/eyVZNXUBY8C/xwqjzMTC68EtTlsM1DCq1A==
-
 "@aws-amplify/ui@2.0.7":
   version "2.0.7"
   resolved "https://registry.yarnpkg.com/@aws-amplify/ui/-/ui-2.0.7.tgz#1d0b230306ca4fcd9c9ab5475f37d33c3eb83b37"
@@ -4472,12 +4467,12 @@ autoprefixer@^9.6.1:
     postcss "^7.0.32"
     postcss-value-parser "^4.1.0"
 
-aws-amplify-angular@6.0.11:
-  version "6.0.11"
-  resolved "https://registry.yarnpkg.com/aws-amplify-angular/-/aws-amplify-angular-6.0.11.tgz#2f8b909b306f341b1aee6b97250fe56de5ff26ed"
-  integrity sha512-/C9PYADdK2zECPb/7ywuPXgEYI+lR60hIXT/wclUfjbFI9uII8JR6z4mMC6VxcvnHMDnYZR+CnfFumkPp51Zrw==
+aws-amplify-angular@6.0.60:
+  version "6.0.60"
+  resolved "https://registry.yarnpkg.com/aws-amplify-angular/-/aws-amplify-angular-6.0.60.tgz#0a6e09da54c30684570f3a2b361fa4349355ffbd"
+  integrity sha512-LzJ/24++J/ZAdyluVKG1TAHXytTLnz4KrKQ3luC7sVIVvg+33b8Dlvgxrsvte0yQjVyfi7AnfsjcxstjvNRXzA==
   dependencies:
-    "@aws-amplify/ui" "2.0.3"
+    "@aws-amplify/ui" "2.0.7"
     rxjs-compat "^6.2.1"
 
 aws-amplify@4.3.46:
