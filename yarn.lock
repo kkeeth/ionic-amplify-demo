@@ -4356,10 +4356,10 @@
   resolved "https://registry.yarnpkg.com/@types/jasmine/-/jasmine-4.3.0.tgz#1dfdfb226820911addb1b5a9031422be72c53aac"
   integrity sha512-u1jWakf8CWvLfSEZyxmzkgBzOEvXH/szpT0e6G8BTkx5Eu0BhDn7sbc5dz0JBN/6Wwm9rBe+JAsk9tJRyH9ZkA==
 
-"@types/jasmine@3.10.9":
-  version "3.10.9"
-  resolved "https://registry.yarnpkg.com/@types/jasmine/-/jasmine-3.10.9.tgz#420fe0576db76c70ae524524c9caa4f69eda8f42"
-  integrity sha512-U6P2ecGNmr0MV50Mb03fglwrApdbcAvx/wtzIAZyp3ZZ+Ghn1A+d53nXglhlymwPtdz0Sj4XSgkQfAQ+bhW8gA==
+"@types/jasmine@3.10.11":
+  version "3.10.11"
+  resolved "https://registry.yarnpkg.com/@types/jasmine/-/jasmine-3.10.11.tgz#12feac7906e19e8aba36a1551a2aa123e4058bc2"
+  integrity sha512-tAiqDJrwRKyjpCgJE07OXFsXsXQWDhoJhyRwzl+yfEToy72s0LhHAfquMi2s4T4Iq3nanKOfZ8/PZFaL/0pQmA==
 
 "@types/jasminewd2@2.0.10":
   version "2.0.10"
