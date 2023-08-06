@@ -4356,10 +4356,10 @@
   resolved "https://registry.yarnpkg.com/@types/jasmine/-/jasmine-4.3.0.tgz#1dfdfb226820911addb1b5a9031422be72c53aac"
   integrity sha512-u1jWakf8CWvLfSEZyxmzkgBzOEvXH/szpT0e6G8BTkx5Eu0BhDn7sbc5dz0JBN/6Wwm9rBe+JAsk9tJRyH9ZkA==
 
-"@types/jasmine@3.10.11":
-  version "3.10.11"
-  resolved "https://registry.yarnpkg.com/@types/jasmine/-/jasmine-3.10.11.tgz#12feac7906e19e8aba36a1551a2aa123e4058bc2"
-  integrity sha512-tAiqDJrwRKyjpCgJE07OXFsXsXQWDhoJhyRwzl+yfEToy72s0LhHAfquMi2s4T4Iq3nanKOfZ8/PZFaL/0pQmA==
+"@types/jasmine@4.3.5":
+  version "4.3.5"
+  resolved "https://registry.yarnpkg.com/@types/jasmine/-/jasmine-4.3.5.tgz#05c6b401c041b8a4f3303c3a58c9580aac2b898c"
+  integrity sha512-9YHUdvuNDDRJYXZwHqSsO72Ok0vmqoJbNn73ttyITQp/VA60SarnZ+MPLD37rJAhVoKp+9BWOvJP5tHIRfZylQ==
 
 "@types/jasminewd2@2.0.10":
   version "2.0.10"
@@ -7680,12 +7680,21 @@ istanbul-reports@^3.0.2:
     html-escaper "^2.0.0"
     istanbul-lib-report "^3.0.0"
 
+jackspeak@^2.0.3:
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/jackspeak/-/jackspeak-2.2.2.tgz#707c62733924b8dc2a0a629dc6248577788b5385"
+  integrity sha512-mgNtVv4vUuaKA97yxUHoA3+FkuhtxkjdXEWOyB/N76fjy0FjezEt34oy3epBtvCvS+7DyKwqCFWx/oJLV5+kCg==
+  dependencies:
+    "@isaacs/cliui" "^8.0.2"
+  optionalDependencies:
+    "@pkgjs/parseargs" "^0.11.0"
+
 jasmine-core@5.1.0:
   version "5.1.0"
   resolved "https://registry.yarnpkg.com/jasmine-core/-/jasmine-core-5.1.0.tgz#2a52c92ec2e5a4bf674c3de0edbaa10c3875b6fc"
   integrity sha512-bFMMwpKuTZXCuGd51yClFobw5SOtad1kmdWnYO8dNwYV8i01Xj0C2+nyQpSKl1EKxiPfyd1ZgBl/rsusL3aS6w==
 
-jasmine-core@3.99.1, jasmine-core@^3.6.0:
+jasmine-core@^3.6.0:
   version "3.99.1"
   resolved "https://registry.yarnpkg.com/jasmine-core/-/jasmine-core-3.99.1.tgz#5bfa4b2d76618868bfac4c8ff08bb26fffa4120d"
   integrity sha512-Hu1dmuoGcZ7AfyynN3LsfruwMbxMALMka+YtZeGoLuDEySVmVAPaonkNoBRIw/ectu8b9tVQCJNgp4a4knp+tg==
