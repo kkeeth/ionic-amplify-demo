@@ -3697,12 +3697,12 @@
     "@angular-devkit/schematics" "^16.0.0"
     "@schematics/angular" "^16.0.0"
 
-"@ionic/angular@7.5.0":
-  version "7.5.0"
-  resolved "https://registry.yarnpkg.com/@ionic/angular/-/angular-7.5.0.tgz#69a9cf2d0334c79b8489381f20ac4d54f219d006"
-  integrity sha512-0eZB/2/4ArfBt6YcYDF8VwfK0J8VRmywpbzlmsQXrubOAqd+Xaq2yYfLmzRfyrdKBhg7TyA+L6MyJ6w0Y7fbXA==
+"@ionic/angular@7.8.6":
+  version "7.8.6"
+  resolved "https://registry.yarnpkg.com/@ionic/angular/-/angular-7.8.6.tgz#19f7c7925d22be4bb99e94dfabe3c99b2c2da3b4"
+  integrity sha512-3Qe53hXpyjtx6fFcxt/NTAlauIawsGmCZJPauV5sAnSKVuX8C82C1zMAZTeJt6m2dnd71wythc98BXUXsx/UxQ==
   dependencies:
-    "@ionic/core" "7.5.0"
+    "@ionic/core" "7.8.6"
     ionicons "^7.0.0"
     jsonc-parser "^3.0.0"
     tslib "^2.3.0"
@@ -3743,13 +3743,13 @@
     wrap-ansi "^6.0.0"
     write-file-atomic "^3.0.0"
 
-"@ionic/core@7.5.0":
-  version "7.5.0"
-  resolved "https://registry.yarnpkg.com/@ionic/core/-/core-7.5.0.tgz#d090af6aa11dc841fd3f91c545cee0dc403ea3c8"
-  integrity sha512-oreRvbKj8VqqO9JraxR/n56GC6MHQtnJEmZf/EFuw5ZvDV8My91uNIzLkb4P9SvPL5NRr/Z0TFem28cgRf5YVA==
+"@ionic/core@7.8.6":
+  version "7.8.6"
+  resolved "https://registry.yarnpkg.com/@ionic/core/-/core-7.8.6.tgz#523f5a3d0fd52c9560213a32719af06fe3f6d769"
+  integrity sha512-HAYZdEmeJgOdo2kDlZkcCGHb+zs/vjU6iv4skbVBL7y+OnSv/oC2u83Yee8S3/aY0YAxkyBgu7hLTYH13Zc2Aw==
   dependencies:
-    "@stencil/core" "^4.4.1"
-    ionicons "^7.2.1"
+    "@stencil/core" "^4.12.2"
+    ionicons "^7.2.2"
     tslib "^2.1.0"
 
 "@ionic/discover@2.0.8":
@@ -4093,7 +4093,7 @@
   resolved "https://registry.yarnpkg.com/@socket.io/component-emitter/-/component-emitter-3.1.1.tgz#621270c02c0a5d4f4669eb1caa9723c91cf201de"
   integrity sha512-dzJtaDAAoXx4GCOJpbB2eG/Qj8VDpdwkLsWGzGm+0L7E8/434RyMbAHmk9ubXWVAb9nXmc44jUf8GKqVDiKezg==
 
-"@stencil/core@^4.0.3", "@stencil/core@^4.4.1":
+"@stencil/core@^4.0.3", "@stencil/core@^4.12.2":
   version "4.17.1"
   resolved "https://registry.yarnpkg.com/@stencil/core/-/core-4.17.1.tgz#2dc634a5fe4ccccaaaa4630cd5ffe4a6262e08d9"
   integrity sha512-nlARe1QtK5abnCG8kPQKJMWiELg39vKabvf3ebm6YEhQA35CgrxC1pVYTsYq3yktJKoY+k+VzGRnATLKyaLbvA==
@@ -7316,7 +7316,7 @@ ionic@5.4.16:
     tslib "^1.9.0"
     uuid "^3.2.1"
 
-ionicons@^7.0.0, ionicons@^7.2.1:
+ionicons@^7.0.0, ionicons@^7.2.2:
   version "7.3.1"
   resolved "https://registry.yarnpkg.com/ionicons/-/ionicons-7.3.1.tgz#a12a2c1c9290e3b1ee23b1a58b01565e104c7525"
   integrity sha512-1boG4EQTBBpQ4/0PU60Yi78Iw/k8iNtKu9c0NmsbzHGnWAcwpiovG9Wi/rk5UlF+DC+CR4XDCxKo91YqvAxkww==
